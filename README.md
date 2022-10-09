@@ -2,6 +2,7 @@
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning Machine Learning And Deep Learning
 - 💞️ I’m looking to collaborate on ...
+- 💞️ Certification from Google in Android & from microsoft and IBM in python.
 - 📫 How to reach me ...
 
 <!---
