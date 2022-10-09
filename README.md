@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Harendra Prajapati
+- 🏫 Student MCA(DS & AI) at BBD University
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Machine Learning And Deep Learning
 - 💞️ I’m looking for a Developer Role.
