@@ -2,6 +2,7 @@
 - 👋 Hi, I’m Harendra Prajapati
 - 🏫 Student MCA(DS & AI) at BBD University
 - 👀 I’m interested in Programming
+- 😇 JAVA,PYTHON,HTML,CSS,JAVASCRIPT,BOOTSTRAP
 - 🌱 I’m currently learning Machine Learning And Deep Learning
 - 💞️ Certification from Google in Android & from microsoft and IBM in python.
 - 📫 How to reach me ...
