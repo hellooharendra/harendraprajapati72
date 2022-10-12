@@ -5,7 +5,7 @@
 - 😇 JAVA, PYTHON, HTML, CSS, JAVASCRIPT, BOOTSTRAP
 - 🌱 I’m currently learning Machine Learning And Deep Learning
 - 💞️ Certification from Google in Android & from microsoft and IBM in python and java.
-- 📫 How to reach me ...
+- 📫  ...
 
 <!---
 harendraprajapati72/harendraprajapati72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
